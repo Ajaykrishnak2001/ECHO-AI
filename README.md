@@ -3,6 +3,7 @@ Echo AI is a full-stack AI-powered chat application designed for seamless user i
 
 Key Features:
 Real-Time AI Chat: Powered by Google Gemini API for text and image recognition.
+
 User Authentication: Secure session management and login functionality via Clerk.
 Dynamic Navigation: Built with React Router Dom for fluid layouts and seamless navigation.
 Efficient Data Handling: Integrated React Query for fetching and mutating data efficiently with real-time updates.
