@@ -1,7 +1,9 @@
 Echo AI: AI Chat Application
+
 Echo AI is a full-stack AI-powered chat application designed for seamless user interactions with real-time text and image recognition capabilities. Developed with the latest React 19, this app provides a secure and interactive experience using Clerk for user authentication, Google Gemini API for AI chat functionalities, and MongoDB for data storage.
 
 Key Features:
+
 Real-Time AI Chat: Powered by Google Gemini API for text and image recognition.
 
 User Authentication: Secure session management and login functionality via Clerk.
@@ -17,8 +19,9 @@ Secure Backend: APIs secured using Node.js and Express, with Clerk’s Node.js S
 Database Design: MongoDB used to store and retrieve user chat history and AI messages.
 
 Technologies Used:
+
 Frontend: React 19, React Router Dom, Tailwind CSS, React Query.
 Backend: Node.js, Express, Google Gemini API, MongoDB, Clerk.
-Hosting: Deployed backend on a VPS for scalability.
+Hosting: Frontend hosted on Vercel, Backend hosted on Railway for scalability and performance.
 
 This project showcases advanced features such as real-time AI chat interactions, dynamic user authentication, and efficient backend management, designed to enhance user experience while maintaining scalability and security.
