@@ -21,7 +21,9 @@ Database Design: MongoDB used to store and retrieve user chat history and AI mes
 Technologies Used:
 
 Frontend: React 19, React Router Dom, Tailwind CSS, React Query.
+
 Backend: Node.js, Express, Google Gemini API, MongoDB, Clerk.
+
 Hosting: Frontend hosted on Vercel, Backend hosted on Railway for scalability and performance.
 
 This project showcases advanced features such as real-time AI chat interactions, dynamic user authentication, and efficient backend management, designed to enhance user experience while maintaining scalability and security.
